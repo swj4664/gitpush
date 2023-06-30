@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/gitpush/static/js/main.88e40530.js",
+    "index.html": "/gitpush/index.html",
+    "main.88e40530.js.map": "/gitpush/static/js/main.88e40530.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.88e40530.js"
+  ]
+}
